@@ -1,0 +1,27 @@
+#container {
+    margin: auto;
+    width: 800px;
+
+}
+
+#direita {
+
+    width: 300px;
+    text-align: center;
+    margin-left: 500px;
+    color: rgb(239, 177, 164);
+}
+
+body {
+    background: url(imc1.jpg);
+    background-size: 100%;
+}
+
+#resposta {
+    height: 100px;
+    margin-top: 100px;
+    margin-left: 600px;
+    color: rgb(239, 177, 164);
+    text-align: center;
+
+}
